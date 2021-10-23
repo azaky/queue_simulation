@@ -1,0 +1,238 @@
+Customer 1:
+	Arrival   : 08:02
+	ServedTime: 08:02 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 08:02 (ServiceTime = 0 minutes)
+Customer 2:
+	Arrival   : 08:09
+	ServedTime: 08:09 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 08:10 (ServiceTime = 1 minutes)
+Customer 3:
+	Arrival   : 08:15
+	ServedTime: 08:15 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 08:22 (ServiceTime = 7 minutes)
+Customer 4:
+	Arrival   : 08:31
+	ServedTime: 08:31 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 08:37 (ServiceTime = 6 minutes)
+Customer 5:
+	Arrival   : 08:36
+	ServedTime: 08:36 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 08:39 (ServiceTime = 3 minutes)
+Customer 6:
+	Arrival   : 08:36
+	ServedTime: 08:37 (by server 0) (WaitTime = 1 minutes)
+	FinishTime: 08:38 (ServiceTime = 1 minutes)
+Customer 7:
+	Arrival   : 08:37
+	ServedTime: 08:38 (by server 0) (WaitTime = 1 minutes)
+	FinishTime: 08:44 (ServiceTime = 6 minutes)
+Customer 8:
+	Arrival   : 08:41
+	ServedTime: 08:41 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 08:48 (ServiceTime = 7 minutes)
+Customer 9:
+	Arrival   : 08:47
+	ServedTime: 08:47 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 09:15 (ServiceTime = 28 minutes)
+Customer 10:
+	Arrival   : 09:18
+	ServedTime: 09:18 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 09:21 (ServiceTime = 3 minutes)
+Customer 11:
+	Arrival   : 09:23
+	ServedTime: 09:23 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 09:34 (ServiceTime = 11 minutes)
+Customer 12:
+	Arrival   : 09:27
+	ServedTime: 09:27 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 09:30 (ServiceTime = 3 minutes)
+Customer 13:
+	Arrival   : 09:27
+	ServedTime: 09:30 (by server 1) (WaitTime = 3 minutes)
+	FinishTime: 09:34 (ServiceTime = 4 minutes)
+Customer 14:
+	Arrival   : 09:56
+	ServedTime: 09:56 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 10:02 (ServiceTime = 6 minutes)
+Customer 15:
+	Arrival   : 10:06
+	ServedTime: 10:06 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 10:32 (ServiceTime = 26 minutes)
+Customer 16:
+	Arrival   : 10:10
+	ServedTime: 10:10 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 10:15 (ServiceTime = 5 minutes)
+Customer 17:
+	Arrival   : 10:11
+	ServedTime: 10:15 (by server 1) (WaitTime = 4 minutes)
+	FinishTime: 10:18 (ServiceTime = 3 minutes)
+Customer 18:
+	Arrival   : 10:15
+	ServedTime: 10:18 (by server 1) (WaitTime = 3 minutes)
+	FinishTime: 10:32 (ServiceTime = 14 minutes)
+Customer 19:
+	Arrival   : 10:18
+	ServedTime: 10:32 (by server 0) (WaitTime = 14 minutes)
+	FinishTime: 10:34 (ServiceTime = 2 minutes)
+Customer 20:
+	Arrival   : 10:18
+	ServedTime: 10:32 (by server 1) (WaitTime = 14 minutes)
+	FinishTime: 10:33 (ServiceTime = 1 minutes)
+Customer 21:
+	Arrival   : 10:39
+	ServedTime: 10:39 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 11:03 (ServiceTime = 24 minutes)
+Customer 22:
+	Arrival   : 10:42
+	ServedTime: 10:42 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 10:52 (ServiceTime = 10 minutes)
+Customer 23:
+	Arrival   : 10:43
+	ServedTime: 10:52 (by server 1) (WaitTime = 9 minutes)
+	FinishTime: 11:07 (ServiceTime = 15 minutes)
+Customer 24:
+	Arrival   : 11:10
+	ServedTime: 11:10 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 11:30 (ServiceTime = 20 minutes)
+Customer 25:
+	Arrival   : 11:16
+	ServedTime: 11:16 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 11:17 (ServiceTime = 1 minutes)
+Customer 26:
+	Arrival   : 11:20
+	ServedTime: 11:20 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 11:28 (ServiceTime = 8 minutes)
+Customer 27:
+	Arrival   : 11:36
+	ServedTime: 11:36 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 11:52 (ServiceTime = 16 minutes)
+Customer 28:
+	Arrival   : 11:52
+	ServedTime: 11:52 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 11:53 (ServiceTime = 1 minutes)
+Customer 29:
+	Arrival   : 12:05
+	ServedTime: 12:05 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 12:06 (ServiceTime = 1 minutes)
+Customer 30:
+	Arrival   : 12:15
+	ServedTime: 12:15 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 12:17 (ServiceTime = 2 minutes)
+Customer 31:
+	Arrival   : 12:16
+	ServedTime: 12:16 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 12:17 (ServiceTime = 1 minutes)
+Customer 32:
+	Arrival   : 12:19
+	ServedTime: 12:19 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 12:22 (ServiceTime = 3 minutes)
+Customer 33:
+	Arrival   : 12:33
+	ServedTime: 12:33 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 12:36 (ServiceTime = 3 minutes)
+Customer 34:
+	Arrival   : 12:37
+	ServedTime: 12:37 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 12:58 (ServiceTime = 21 minutes)
+Customer 35:
+	Arrival   : 12:48
+	ServedTime: 12:48 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 12:48 (ServiceTime = 0 minutes)
+Customer 36:
+	Arrival   : 12:49
+	ServedTime: 12:49 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 12:58 (ServiceTime = 9 minutes)
+Customer 37:
+	Arrival   : 12:51
+	ServedTime: 12:58 (by server 0) (WaitTime = 7 minutes)
+	FinishTime: 13:01 (ServiceTime = 3 minutes)
+Customer 38:
+	Arrival   : 12:55
+	ServedTime: 12:58 (by server 1) (WaitTime = 3 minutes)
+	FinishTime: 12:58 (ServiceTime = 0 minutes)
+Customer 39:
+	Arrival   : 13:16
+	ServedTime: 13:16 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 13:22 (ServiceTime = 6 minutes)
+Customer 40:
+	Arrival   : 13:23
+	ServedTime: 13:23 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 13:45 (ServiceTime = 22 minutes)
+Customer 41:
+	Arrival   : 13:34
+	ServedTime: 13:34 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 13:57 (ServiceTime = 23 minutes)
+Customer 42:
+	Arrival   : 13:35
+	ServedTime: 13:45 (by server 0) (WaitTime = 10 minutes)
+	FinishTime: 13:51 (ServiceTime = 6 minutes)
+Customer 43:
+	Arrival   : 13:35
+	ServedTime: 13:51 (by server 0) (WaitTime = 16 minutes)
+	FinishTime: 13:57 (ServiceTime = 6 minutes)
+Customer 44:
+	Arrival   : 13:38
+	ServedTime: 13:57 (by server 0) (WaitTime = 19 minutes)
+	FinishTime: 14:20 (ServiceTime = 23 minutes)
+Customer 45:
+	Arrival   : 13:47
+	ServedTime: 13:57 (by server 1) (WaitTime = 10 minutes)
+	FinishTime: 14:06 (ServiceTime = 9 minutes)
+Customer 46:
+	Arrival   : 14:00
+	ServedTime: 14:06 (by server 1) (WaitTime = 6 minutes)
+	FinishTime: 14:15 (ServiceTime = 9 minutes)
+Customer 47:
+	Arrival   : 14:06
+	ServedTime: 14:15 (by server 1) (WaitTime = 9 minutes)
+	FinishTime: 14:20 (ServiceTime = 5 minutes)
+Customer 48:
+	Arrival   : 14:18
+	ServedTime: 14:20 (by server 0) (WaitTime = 2 minutes)
+	FinishTime: 14:22 (ServiceTime = 2 minutes)
+Customer 49:
+	Arrival   : 14:19
+	ServedTime: 14:20 (by server 1) (WaitTime = 1 minutes)
+	FinishTime: 14:27 (ServiceTime = 7 minutes)
+Customer 50:
+	Arrival   : 14:24
+	ServedTime: 14:24 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 14:44 (ServiceTime = 20 minutes)
+Customer 51:
+	Arrival   : 14:27
+	ServedTime: 14:27 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 14:28 (ServiceTime = 1 minutes)
+Customer 52:
+	Arrival   : 14:56
+	ServedTime: 14:56 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 14:57 (ServiceTime = 1 minutes)
+Customer 53:
+	Arrival   : 15:01
+	ServedTime: 15:01 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 15:08 (ServiceTime = 7 minutes)
+Customer 54:
+	Arrival   : 15:04
+	ServedTime: 15:04 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 15:34 (ServiceTime = 30 minutes)
+Customer 55:
+	Arrival   : 15:13
+	ServedTime: 15:13 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 15:15 (ServiceTime = 2 minutes)
+Customer 56:
+	Arrival   : 15:42
+	ServedTime: 15:42 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 15:44 (ServiceTime = 2 minutes)
+Customer 57:
+	Arrival   : 15:50
+	ServedTime: 15:50 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 16:17 (ServiceTime = 27 minutes)
+Customer 58:
+	Arrival   : 15:55
+	ServedTime: 15:55 (by server 1) (WaitTime = 0 minutes)
+	FinishTime: 16:01 (ServiceTime = 6 minutes)
+
+Simulation Time    : 8 hours
+Total Customers    : 58 (7.250000 customers/hour)
+Total Servers      : 2
+Average WaitTime   : 2.275862 minutes
+Average ServiceTime: 8.431034 minutes

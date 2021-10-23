@@ -1,0 +1,238 @@
+Customer 1:
+	Arrival   : 08:02
+	ServedTime: 08:02 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 08:02 (ServiceTime = 0 minutes)
+Customer 2:
+	Arrival   : 08:09
+	ServedTime: 08:09 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 08:10 (ServiceTime = 1 minutes)
+Customer 3:
+	Arrival   : 08:15
+	ServedTime: 08:15 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 08:22 (ServiceTime = 7 minutes)
+Customer 4:
+	Arrival   : 08:31
+	ServedTime: 08:31 (by server 0) (WaitTime = 0 minutes)
+	FinishTime: 08:37 (ServiceTime = 6 minutes)
+Customer 5:
+	Arrival   : 08:36
+	ServedTime: 08:37 (by server 0) (WaitTime = 1 minutes)
+	FinishTime: 08:38 (ServiceTime = 1 minutes)
+Customer 6:
+	Arrival   : 08:36
+	ServedTime: 08:38 (by server 0) (WaitTime = 2 minutes)
+	FinishTime: 08:44 (ServiceTime = 6 minutes)
+Customer 7:
+	Arrival   : 08:37
+	ServedTime: 08:44 (by server 0) (WaitTime = 7 minutes)
+	FinishTime: 09:12 (ServiceTime = 28 minutes)
+Customer 8:
+	Arrival   : 08:41
+	ServedTime: 09:12 (by server 0) (WaitTime = 31 minutes)
+	FinishTime: 09:15 (ServiceTime = 3 minutes)
+Customer 9:
+	Arrival   : 08:47
+	ServedTime: 09:15 (by server 0) (WaitTime = 28 minutes)
+	FinishTime: 09:26 (ServiceTime = 11 minutes)
+Customer 10:
+	Arrival   : 09:18
+	ServedTime: 09:26 (by server 0) (WaitTime = 8 minutes)
+	FinishTime: 09:32 (ServiceTime = 6 minutes)
+Customer 11:
+	Arrival   : 09:23
+	ServedTime: 09:32 (by server 0) (WaitTime = 9 minutes)
+	FinishTime: 09:58 (ServiceTime = 26 minutes)
+Customer 12:
+	Arrival   : 09:27
+	ServedTime: 09:58 (by server 0) (WaitTime = 31 minutes)
+	FinishTime: 10:00 (ServiceTime = 2 minutes)
+Customer 13:
+	Arrival   : 09:27
+	ServedTime: 10:00 (by server 0) (WaitTime = 33 minutes)
+	FinishTime: 10:24 (ServiceTime = 24 minutes)
+Customer 14:
+	Arrival   : 09:56
+	ServedTime: 10:24 (by server 0) (WaitTime = 28 minutes)
+	FinishTime: 10:44 (ServiceTime = 20 minutes)
+Customer 15:
+	Arrival   : 10:06
+	ServedTime: 10:44 (by server 0) (WaitTime = 38 minutes)
+	FinishTime: 11:00 (ServiceTime = 16 minutes)
+Customer 16:
+	Arrival   : 10:10
+	ServedTime: 11:00 (by server 0) (WaitTime = 50 minutes)
+	FinishTime: 11:01 (ServiceTime = 1 minutes)
+Customer 17:
+	Arrival   : 10:11
+	ServedTime: 11:01 (by server 0) (WaitTime = 50 minutes)
+	FinishTime: 11:02 (ServiceTime = 1 minutes)
+Customer 18:
+	Arrival   : 10:15
+	ServedTime: 11:02 (by server 0) (WaitTime = 47 minutes)
+	FinishTime: 11:04 (ServiceTime = 2 minutes)
+Customer 19:
+	Arrival   : 10:18
+	ServedTime: 11:04 (by server 0) (WaitTime = 46 minutes)
+	FinishTime: 11:07 (ServiceTime = 3 minutes)
+Customer 20:
+	Arrival   : 10:18
+	ServedTime: 11:07 (by server 0) (WaitTime = 49 minutes)
+	FinishTime: 11:10 (ServiceTime = 3 minutes)
+Customer 21:
+	Arrival   : 10:39
+	ServedTime: 11:10 (by server 0) (WaitTime = 31 minutes)
+	FinishTime: 11:31 (ServiceTime = 21 minutes)
+Customer 22:
+	Arrival   : 10:42
+	ServedTime: 11:31 (by server 0) (WaitTime = 49 minutes)
+	FinishTime: 11:34 (ServiceTime = 3 minutes)
+Customer 23:
+	Arrival   : 10:43
+	ServedTime: 11:34 (by server 0) (WaitTime = 51 minutes)
+	FinishTime: 11:40 (ServiceTime = 6 minutes)
+Customer 24:
+	Arrival   : 11:10
+	ServedTime: 11:40 (by server 0) (WaitTime = 30 minutes)
+	FinishTime: 12:02 (ServiceTime = 22 minutes)
+Customer 25:
+	Arrival   : 11:16
+	ServedTime: 12:02 (by server 0) (WaitTime = 46 minutes)
+	FinishTime: 12:08 (ServiceTime = 6 minutes)
+Customer 26:
+	Arrival   : 11:20
+	ServedTime: 12:08 (by server 0) (WaitTime = 48 minutes)
+	FinishTime: 12:14 (ServiceTime = 6 minutes)
+Customer 27:
+	Arrival   : 11:36
+	ServedTime: 12:14 (by server 0) (WaitTime = 38 minutes)
+	FinishTime: 12:37 (ServiceTime = 23 minutes)
+Customer 28:
+	Arrival   : 11:52
+	ServedTime: 12:37 (by server 0) (WaitTime = 45 minutes)
+	FinishTime: 12:39 (ServiceTime = 2 minutes)
+Customer 29:
+	Arrival   : 12:05
+	ServedTime: 12:39 (by server 0) (WaitTime = 34 minutes)
+	FinishTime: 12:59 (ServiceTime = 20 minutes)
+Customer 30:
+	Arrival   : 12:15
+	ServedTime: 12:59 (by server 0) (WaitTime = 44 minutes)
+	FinishTime: 13:00 (ServiceTime = 1 minutes)
+Customer 31:
+	Arrival   : 12:16
+	ServedTime: 13:00 (by server 0) (WaitTime = 44 minutes)
+	FinishTime: 13:07 (ServiceTime = 7 minutes)
+Customer 32:
+	Arrival   : 12:19
+	ServedTime: 13:07 (by server 0) (WaitTime = 48 minutes)
+	FinishTime: 13:09 (ServiceTime = 2 minutes)
+Customer 33:
+	Arrival   : 12:33
+	ServedTime: 13:09 (by server 0) (WaitTime = 36 minutes)
+	FinishTime: 13:11 (ServiceTime = 2 minutes)
+Customer 34:
+	Arrival   : 12:37
+	ServedTime: 13:11 (by server 0) (WaitTime = 34 minutes)
+	FinishTime: 13:38 (ServiceTime = 27 minutes)
+Customer 35:
+	Arrival   : 12:48
+	ServedTime: 13:38 (by server 0) (WaitTime = 50 minutes)
+	FinishTime: 14:22 (ServiceTime = 44 minutes)
+Customer 36:
+	Arrival   : 12:49
+	ServedTime: 14:22 (by server 0) (WaitTime = 93 minutes)
+	FinishTime: 14:28 (ServiceTime = 6 minutes)
+Customer 37:
+	Arrival   : 12:51
+	ServedTime: 14:28 (by server 0) (WaitTime = 97 minutes)
+	FinishTime: 15:14 (ServiceTime = 46 minutes)
+Customer 38:
+	Arrival   : 12:55
+	ServedTime: 15:14 (by server 0) (WaitTime = 139 minutes)
+	FinishTime: 15:18 (ServiceTime = 4 minutes)
+Customer 39:
+	Arrival   : 13:16
+	ServedTime: 15:18 (by server 0) (WaitTime = 122 minutes)
+	FinishTime: 15:25 (ServiceTime = 7 minutes)
+Customer 40:
+	Arrival   : 13:23
+	ServedTime: 15:25 (by server 0) (WaitTime = 122 minutes)
+	FinishTime: 15:29 (ServiceTime = 4 minutes)
+Customer 41:
+	Arrival   : 13:34
+	ServedTime: 15:29 (by server 0) (WaitTime = 115 minutes)
+	FinishTime: 15:40 (ServiceTime = 11 minutes)
+Customer 42:
+	Arrival   : 13:35
+	ServedTime: 15:40 (by server 0) (WaitTime = 125 minutes)
+	FinishTime: 15:53 (ServiceTime = 13 minutes)
+Customer 43:
+	Arrival   : 13:35
+	ServedTime: 15:53 (by server 0) (WaitTime = 138 minutes)
+	FinishTime: 15:57 (ServiceTime = 4 minutes)
+Customer 44:
+	Arrival   : 13:38
+	ServedTime: 15:57 (by server 0) (WaitTime = 139 minutes)
+	FinishTime: 16:01 (ServiceTime = 4 minutes)
+Customer 45:
+	Arrival   : 13:47
+	ServedTime: 16:01 (by server 0) (WaitTime = 134 minutes)
+	FinishTime: 16:03 (ServiceTime = 2 minutes)
+Customer 46:
+	Arrival   : 14:00
+	ServedTime: 16:03 (by server 0) (WaitTime = 123 minutes)
+	FinishTime: 16:18 (ServiceTime = 15 minutes)
+Customer 47:
+	Arrival   : 14:06
+	ServedTime: 16:18 (by server 0) (WaitTime = 132 minutes)
+	FinishTime: 16:21 (ServiceTime = 3 minutes)
+Customer 48:
+	Arrival   : 14:18
+	ServedTime: 16:21 (by server 0) (WaitTime = 123 minutes)
+	FinishTime: 16:38 (ServiceTime = 17 minutes)
+Customer 49:
+	Arrival   : 14:19
+	ServedTime: 16:38 (by server 0) (WaitTime = 139 minutes)
+	FinishTime: 16:41 (ServiceTime = 3 minutes)
+Customer 50:
+	Arrival   : 14:24
+	ServedTime: 16:41 (by server 0) (WaitTime = 137 minutes)
+	FinishTime: 16:48 (ServiceTime = 7 minutes)
+Customer 51:
+	Arrival   : 14:27
+	ServedTime: 16:48 (by server 0) (WaitTime = 141 minutes)
+	FinishTime: 17:07 (ServiceTime = 19 minutes)
+Customer 52:
+	Arrival   : 14:56
+	ServedTime: 17:07 (by server 0) (WaitTime = 131 minutes)
+	FinishTime: 17:08 (ServiceTime = 1 minutes)
+Customer 53:
+	Arrival   : 15:01
+	ServedTime: 17:08 (by server 0) (WaitTime = 127 minutes)
+	FinishTime: 17:09 (ServiceTime = 1 minutes)
+Customer 54:
+	Arrival   : 15:04
+	ServedTime: 17:09 (by server 0) (WaitTime = 125 minutes)
+	FinishTime: 17:11 (ServiceTime = 2 minutes)
+Customer 55:
+	Arrival   : 15:13
+	ServedTime: 17:11 (by server 0) (WaitTime = 118 minutes)
+	FinishTime: 17:14 (ServiceTime = 3 minutes)
+Customer 56:
+	Arrival   : 15:42
+	ServedTime: 17:14 (by server 0) (WaitTime = 92 minutes)
+	FinishTime: 17:25 (ServiceTime = 11 minutes)
+Customer 57:
+	Arrival   : 15:50
+	ServedTime: 17:25 (by server 0) (WaitTime = 95 minutes)
+	FinishTime: 17:31 (ServiceTime = 6 minutes)
+Customer 58:
+	Arrival   : 15:55
+	ServedTime: 17:31 (by server 0) (WaitTime = 96 minutes)
+	FinishTime: 17:54 (ServiceTime = 23 minutes)
+
+Simulation Time    : 8 hours
+Total Customers    : 58 (7.250000 customers/hour)
+Total Servers      : 1
+Average WaitTime   : 67.051724 minutes
+Average ServiceTime: 9.844828 minutes
